@@ -11,8 +11,16 @@ namespace LAB7test
         public void TestMethod1()
         {
             Zadanie5 t = new Zadanie5();
-            long actual = t.z5("12345340943287432");
+            int actual = t.z5("12345340943287432");
             int expected = 64;
+            Assert.AreEqual(actual, expected);
+        }
+        [TestMethod]
+        public void TestMethod3()
+        {
+            Zadanie5 t = new Zadanie5();
+            int actual = t.z5("922337203685477580811");
+            int expected = 91;
             Assert.AreEqual(actual, expected);
         }
         [TestMethod]
