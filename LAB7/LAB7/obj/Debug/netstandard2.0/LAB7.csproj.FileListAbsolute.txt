@@ -1,8 +1,0 @@
-C:\Users\User\source\repos\LAB7\LAB7\bin\Debug\netstandard2.0\LAB7.deps.json
-C:\Users\User\source\repos\LAB7\LAB7\bin\Debug\netstandard2.0\LAB7.dll
-C:\Users\User\source\repos\LAB7\LAB7\bin\Debug\netstandard2.0\LAB7.pdb
-C:\Users\User\source\repos\LAB7\LAB7\obj\Debug\netstandard2.0\LAB7.csprojAssemblyReference.cache
-C:\Users\User\source\repos\LAB7\LAB7\obj\Debug\netstandard2.0\LAB7.AssemblyInfoInputs.cache
-C:\Users\User\source\repos\LAB7\LAB7\obj\Debug\netstandard2.0\LAB7.AssemblyInfo.cs
-C:\Users\User\source\repos\LAB7\LAB7\obj\Debug\netstandard2.0\LAB7.dll
-C:\Users\User\source\repos\LAB7\LAB7\obj\Debug\netstandard2.0\LAB7.pdb
